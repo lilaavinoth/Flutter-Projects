@@ -47,9 +47,6 @@ class LoginPage extends StatelessWidget {
               ),
               SignInButton(Buttons.Google, onPressed: () {}),
               SignInButton(Buttons.FacebookNew, onPressed: () {})
-
-              
-
             ],
           ),
         ),
